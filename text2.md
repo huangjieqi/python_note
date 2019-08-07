@@ -111,4 +111,4 @@ print(f'欢迎 {name} 光临！')
   \uxxxx 表示Unicode编码
 # 4.字符串格式化问题
 Python 支持格式化字符串的输出 。尽管这样可能会用到非常复杂的表达式，但最基本的用法是将一个值插入到一个有字符串格式符 %s 的字符串中。  
-[字符串格式化代码]（https://github.com/huangjieqi/python_note/blob/master/%E6%A0%BC%E5%BC%8F%E5%8C%96%E5%AD%97%E7%AC%A6%E4%B8%B2.py）
+[字符串格式化代码](增加字符串格式化代码链接)
