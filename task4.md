@@ -229,7 +229,7 @@ pprint(r)
 
 # 6.os模块
 
-[os模块官方文本](https://docs.python.org/3/library/os.html)
+[os模块官方文本](https://docs.python.org/3/library/os.html)  
 os 模块的常用函数的用法：
 ```python
 import os
