@@ -114,8 +114,11 @@ class Enemy(pygame.sprite.Sprite):
 # 代码实现问题
 如直接在cmd中路径下运行`python plane.py`会出现如下错误
 
+![飞机大战](https://github.com/huangjieqi/python_note/blob/master/plane/p1.png?raw=true)
 
 所以需要在`Anaconda Prompt (Anaconda3)`中运行python.py
 才能成功
 
 # 运行结果
+![飞机大战](https://github.com/huangjieqi/python_note/blob/master/plane/p2.png?raw=true)
+![飞机大战](https://github.com/huangjieqi/python_note/blob/master/plane/p3.png?raw=true)
